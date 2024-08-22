@@ -9666,7 +9666,7 @@ RESPONSIVE
     background-size: 100% !important;
     background-repeat: no-repeat !important;
     margin-bottom: 1%;
-    background-position: bottom left !important;
+    background-position: top left !important;
     background: #e5e5e5 url(../images/bg-login.png) fixed;
 }
 
