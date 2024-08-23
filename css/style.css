@@ -1338,7 +1338,7 @@ blockquote.style2:after {
 }
 
 .mini-cart .count {
-    background-color: #de0043;
+    background-color: #89d328;
     border-radius: 50%;
     color: #fff;
     font-size: 10px;
@@ -7850,7 +7850,7 @@ BLOG PAGE
     left: -100%;
     width: 320px;
     bottom: 0;
-    background-color: #10384f;
+    background-color: #443247;
     z-index: 100;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -7870,10 +7870,11 @@ BLOG PAGE
 .box-mobile-menu .close-menu {
     width: 35px;
     height: 35px;
-    font-size: 26px;
+    font-size: 35px;
     border-width: 1px;
     border-style: solid;
-    border-color: rgba(255, 255, 255, 0.2);
+    border-color: #ff3162;
+    background: #ff3162;
     display: inline-block;
     line-height: 24px;
     text-align: center;
@@ -9754,7 +9755,7 @@ RESPONSIVE
 
 li.info-pts {
     border-radius: 10px;
-    background-color: #10384f;
+    background-color: #24bcff;
     padding: 11px 18px;
     background-repeat: no-repeat;
     background-position: top left;
@@ -10139,4 +10140,9 @@ li.info-pts span {
 }
 .compra-puntos p {
     margin: 0;
+}
+.logo-footer {
+    height: 110px;
+    margin-top: 15px;
+    filter: brightness(0) invert(1);
 }
