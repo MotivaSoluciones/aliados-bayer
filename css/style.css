@@ -8588,7 +8588,9 @@ table {
 .margin-top-230 {
     margin-top: 230px !important;
 }
-
+.margin-bottom-15 {
+    margin-bottom: 15px !important;
+}
 .margin-bottom-20 {
     margin-bottom: 20px !important;
 }
@@ -9935,6 +9937,7 @@ li.info-pts {
 .user-name {
     display: inline-block;
     margin: 12px 30px 0 0;
+    font-weight: 600;
 }
 
 .header.style3 .main-menu .menu-item-has-children .sub-menu > li:nth-last-child(2) {
