@@ -9941,7 +9941,7 @@ li.info-pts {
 }
 
 .header.style3 .main-menu .menu-item-has-children .sub-menu > li:nth-last-child(2) {
-    display: none;
+/*    display: none;*/
 }
 
 /*MODAL INGRESO*/
@@ -10132,7 +10132,7 @@ li.info-pts span {
 
 .header.style3 .main-menu > li:nth-child(2)
 {
-   display: none;
+/*   display: none;*/
 }
 
 .compra-puntos{
